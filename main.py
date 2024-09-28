@@ -148,7 +148,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-genai.configure(api_key="AIzaSyCxGmyEE5jokRG6LKRKxwE0blo_N5XaORA")
+# genai.configure()
 
 # Create the model
 generation_config = {
